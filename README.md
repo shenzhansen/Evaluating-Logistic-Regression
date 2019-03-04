@@ -1,4 +1,4 @@
-# Evaluating-Logistic-Regression
+# Evaluating Logistic Regression by Graphical Methods
 Local mean deviance, empirical probability and partial residuals
 
 We utilized some new methods to determine goodness of a typical logistic regression model.
